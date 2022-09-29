@@ -1,0 +1,37 @@
+body{
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+
+p span{
+    color: red;
+    font-size: 50px;
+
+}
+p span u{
+    color: green;
+    font-size: 50px;
+}
+#paragraph{
+    font-size: 50px;
+}
+.cname{
+    background-color: rgb(27, 15, 0);
+    color: white;
+    font-size: 30px;
+    border: 1px;
+}
+#newid{
+    font-size: 30px;
+}
+p:hover{
+    font-size: 30px;
+}
+span:hover{
+    font-style: italic;
+    background-color: blueviolet;
+
+}
+#newid:hover{
+    font-size: 70px;
+}
